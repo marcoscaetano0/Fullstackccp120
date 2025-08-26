@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(213, 255, 196, 0.37);
+}
+h1{
+    color:rgb(80, 46, 19);
+}
+#teste{
+    background-color:rgba(251, 255, 196, 0.37);
+}
+a:hover{
+    color:rgb(248, 5, 5);
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-align: center;
+}
+.destaque{
+    color:chocolate;
+}
